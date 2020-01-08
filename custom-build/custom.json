@@ -9,7 +9,7 @@
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.2/Magisk-uninstaller-20200102.zip"
   },
   "magisk": {
-    "version": "v19.0_Taimen_Diag",
+    "version": "19.0_Taimen_Diag",
     "versionCode": "20200",
     "link": "https://github.com/magicskyllx/magisk_files/custom-build/Magisk-v19.0_Taimen_Diag.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/de0ebcfdf314133118e1fd4bbbf12db9ae7f4613/notes.md",
