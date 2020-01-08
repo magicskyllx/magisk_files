@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "7.5.0",
+    "versionCode": "265",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.5.0/MagiskManager-v7.5.0.apk",
+    "note": "https://raw.githubusercontent.com/topjohnwu/Magisk/e0d02a61a9c3e86fdb7b849e0dd767f5490e84a1/app/src/main/res/raw/changelog.md"
+  },
+  "uninstaller": {
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.2/Magisk-uninstaller-20200102.zip"
+  },
+  "magisk": {
+    "version": "v19.0_Taimen_Diag",
+    "versionCode": "20200",
+    "link": "https://https://github.com/magicskyllx/magisk_files/custom-build/Magisk-v19.0_Taimen_Diag.zip",
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/de0ebcfdf314133118e1fd4bbbf12db9ae7f4613/notes.md",
+    "md5": "fd73583c7cf3630fb9576c6a1c138fbb"
+  },
+  "stub": {
+    "versionCode": "7",
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/stub/stub-release.apk"
+  }
+}
