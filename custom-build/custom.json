@@ -11,7 +11,7 @@
   "magisk": {
     "version": "19.0_Taimen_Diag",
     "versionCode": "20200",
-    "link": "https://dl.xda-developers.com/4/7/4/2/2/9/6/Magisk-v19.0_Taimen_Diag.zip?key=huarzrSSNUtNCCn3kZtdqg&ts=1578491117",
+    "link": "/sdcard/Download/Magisk-v19.0_Taimen_Diag.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/de0ebcfdf314133118e1fd4bbbf12db9ae7f4613/notes.md",
     "md5": "fd73583c7cf3630fb9576c6a1c138fbb"
   },
